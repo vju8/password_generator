@@ -1,10 +1,14 @@
-Function responsible for generating a password considering specific conditions.
+**Name:**
+Password Generator
+
+**Description:**
+This mini-project aims generating a password considering specific conditions.
     
 **Conditions:**
     - at least one lowercase 
     - at least one uppercase 
     - minimum password length 
-    - maximum password length (default 12) [BASE]
+    - maximum password length (default 12) 
     - at least one number (optional)
     - at least one special character (optional)
 
